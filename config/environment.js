@@ -23,6 +23,9 @@ module.exports = function(environment) {
         'facebook-connect': { 
           appId: '353986594759582', 
           scope: 'email,birthday' 
+        },
+        'instatube': {
+          
         }
       }
     }
