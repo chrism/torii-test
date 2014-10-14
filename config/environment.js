@@ -21,7 +21,7 @@ module.exports = function(environment) {
     torii: {
       providers: {
         'facebook-connect': { 
-          appId: '353986594759582', 
+          appId: , 
           scope: 'email,birthday' 
         },
         'instatube': {
